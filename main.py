@@ -38,6 +38,6 @@ if dbond == 0:
 elif dbond == 1:
     infix = 'en'
 elif dbond == 2:
-    infix == 'adien'
+    infix = 'adien'
     
 print(f"The name of the organic compound is {prefix + infix + sufix}")
