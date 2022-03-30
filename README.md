@@ -17,3 +17,4 @@
 
 # Example/Illustration of Application in Use
 
+<image src="iupac_generator.png"/>
