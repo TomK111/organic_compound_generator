@@ -1,6 +1,5 @@
 # Organic Compound IUPAC Name Generator
 
-# What Is This Project?
 - This project is an organic compound IUPAC name generator and was written in Python.
 
 ## How Does This Project Work?
