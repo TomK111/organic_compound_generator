@@ -18,4 +18,5 @@
 
 # Example/Illustration of Application in Use
 
-<image src="iupac_generator.png"/>
+<img src="butane.png"/>
+<img src="octane.png"/>
