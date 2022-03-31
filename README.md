@@ -1,4 +1,4 @@
-# Organic Compound IUPAC Name Generator
+# Organic Compound Generator
 
 - This project is an organic compound IUPAC name generator and was written in Python.
 
