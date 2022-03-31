@@ -1,6 +1,7 @@
 # Organic Compound Generator
 
-- This project is an organic compound IUPAC name generator and was written in Python.
+- This project was written in Python and is an organic compound generator and prints the IUPAC name of the organic compound along with the skeletal formula.
+- This is a great project/tool to use if you are starting out learning about the different alkanes, what they look like and the nomenclature. 
 
 ## How Does This Project Work?
 - The user will be prompted to enter the organic compound in SMILES (Simplified Molecular Input Line Entry System) format and they will receive the IUPAC name for the compound along with the skeletal formula of the compound.
